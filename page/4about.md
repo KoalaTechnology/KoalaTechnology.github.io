@@ -14,10 +14,10 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/low901028?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/low901028?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe><iframe src="https://githubbadge.appspot.com/Jimmy-Shen?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 
-
+# 关于神奇的考拉🐨
 目前就职于掌门集团Wifi广告事业部，大数据高级研究员，“补锅匠”一枚。
 
 * 2019.04 加入掌门集团wifi广告事业部
@@ -29,6 +29,17 @@ type: page
 * GitHub：[low901028](https://github.com/low901028)
 * email：dalan_123@126.com
 * 微信：神奇的考拉
+
+# Jimmy-Shen
+目前就职于智通三千物流研发事业部，微服务研发工程师一枚。
+
+* 2019.07 加入智通三千研发事业部
+
+## 联系我
+
+* GitHub：[Jimmy-Shen](https://github.com/Jimmy-Shen)
+* email：dalan_123@126.com
+* 微信：in coding
 
 ## 关于本站
 
