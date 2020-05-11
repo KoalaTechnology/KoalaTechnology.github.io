@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SpringCloud Alibaba集成"
-categories: flink
+categories: 微服务
 tags:  Java Spring 微服务  
 author: Jimmy-Shen
 excerpt: 如何在实际应用集成springcloud alibaba
