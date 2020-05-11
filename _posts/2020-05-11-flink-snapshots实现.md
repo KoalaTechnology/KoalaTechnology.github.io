@@ -238,6 +238,7 @@ upon event〈receive|input, msg〉do
 如上图 ，可以看到，当 snapshot 时间间隔非常小，同步的 snapshot 性能非常差，因为它在做 snapshot 会阻塞计算，时间都花费在 snapshot 上了，而 ABS 算法的实验结果就好了很多。如上图 ，集群节点及作业并行度从 5 逐渐增加到 40，可以看到 ABS 算法的性能还很稳定的。
 
 ## 引用
+
 1.[flink](github.com/apache/flink)
 2.[Lightweight Asynchronous Snapshots for Distributed Dataflows](https://arxiv.org/pdf/1506.08603.pdf)
 3.[checkpoints](https://ci.apache.org/projects/flink/flink-docs-release-1.9/ops/state/checkpoints.html)
