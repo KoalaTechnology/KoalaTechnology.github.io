@@ -29,8 +29,10 @@ type: page
 * email：dalan_123@126.com
 * 微信：神奇的考拉
 
+# 
+
 <iframe src="https://githubbadge.appspot.com/Jimmy-Shen?s=1" style="border: 0;height: 142px;width: 85%;overflow: hidden;" frameBorder="0"></iframe>
-# Jimmy-Shen
+# 关于Jimmy-Shen
 目前就职于智通三千物流研发事业部，微服务研发工程师一枚。
 
 * 2019.09 加入智通三千研发事业部
