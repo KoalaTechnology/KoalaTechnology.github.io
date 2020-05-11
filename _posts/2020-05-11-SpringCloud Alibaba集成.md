@@ -35,12 +35,12 @@ spring-cloud-alibaba框架下提供了如下几个组件：
 1. Nacos
     [nacos](https://nacos.io/zh-cn/index.html)是使用SpringBoot进行编写的组件，面向云原生方面进行开发的，提供可视化的操作界面，功能强大，集成也非常方面。集成步骤有：
     1.1 搭建Nacos后台服务，参考[Nacos部署模式](https://nacos.io/zh-cn/docs/deployment.html),效果如图：
-    ![avatar](././_images/dashboard.png)
+    ![avatar](../_images/dashboard.png)
     1.2	配置namespace
-    ![avatar](_images/create-namespace.png)
+    ![avatar](../_images/create-namespace.png)
     1.3 配置内容
-    ![avatar](_images/create-config.png)
-    ![avatar](_images/create-config-content.png)
+    ![avatar](../_images/create-config.png)
+    ![avatar](../_images/create-config-content.png)
     1.4 配置依赖
   ><dependency>
   >         <groupId>com.alibaba.cloud</groupId>
@@ -506,5 +506,6 @@ spring:
 
 </project>
 ```
+
 ## 源码
-请点击连接，获取完整代码 [demo-service](https://github.com/Jimmy-Shen/demo-spring-cloud-alibaba.git)
+请点击连接，获取完整代码 [demo-service](https://github.com/Jimmy-Shen/demo-spring-cloud-alibaba.git) 
