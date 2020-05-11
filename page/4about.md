@@ -14,7 +14,7 @@ type: page
 
 ## 关于我们
 
-<iframe src="https://githubbadge.appspot.com/low901028?s=1" style="border: 0;height: 142px;width: 85%;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/low901028?s=1" style="border: 0;width: 85%;overflow: hidden;" frameBorder="0"></iframe>
 
 # 关于神奇的考拉🐨
 目前就职于掌门集团Wifi广告事业部，大数据高级研究员，“补锅匠”一枚。
@@ -31,7 +31,7 @@ type: page
 
 # 
 
-<iframe src="https://githubbadge.appspot.com/Jimmy-Shen?s=1" style="border: 0;height: 142px;width: 85%;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/Jimmy-Shen?s=1" style="border: 0;width: 85%;overflow: hidden;" frameBorder="0"></iframe>
 # 关于Jimmy-Shen
 目前就职于智通三千物流研发事业部，微服务研发工程师一枚。
 
