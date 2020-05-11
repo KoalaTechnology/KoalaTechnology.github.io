@@ -4,6 +4,7 @@ title:  "关于etcd multiple_member_cluster的部署.md"
 date:   2020-02-05 14:06:05
 categories: go
 tags: go etcd kv 
+excerpt: 关于etcd multiple member cluster的部署，涉及member增加/删除等
 ---
 
 * content
